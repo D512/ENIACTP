@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TP_CARGA_CLIENTE">
+</Property><Property Name="Solution File" Value="C:\Rosmy\TP_EXCELSIOR_ART\TP_CARGA_CLIENTE.sln">
+</Property><Property Name="User Options File" Value="C:\Rosmy\TP_EXCELSIOR_ART\TP_CARGA_CLIENTE.suo">
+</Property><Property Name="Date" Value="viernes, 21 de marzo de 2014">
+</Property><Property Name="Time" Value="08:43 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TP_CARGA_CLIENTE.sln" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\TP_CARGA_CLIENTE.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TP_CARGA_CLIENTE.suo" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\TP_CARGA_CLIENTE.suo">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="TP_CARGA_GLIENTE.csproj" Description="Project file successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\TP_CARGA_GLIENTE.csproj">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="TP_CARGA_GLIENTE.csproj.user" Description="Project user file successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\TP_CARGA_GLIENTE.csproj.user">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="CargaCliente.cs" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\CargaCliente.cs">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="ClaseBaseDatos.cs" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\ClaseBaseDatos.cs">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="Class1.cs" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="GenerarArchivosLog.cs" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\GenerarArchivosLog.cs">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="App.ico" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="bin\Debug\XMLConfig.xml" Description="File successfully backed up as C:\Rosmy\TP_EXCELSIOR_ART\Backup\bin\Debug\XMLConfig.xml">
+</Event><Event ErrorLevel="1" Project="TP_CARGA_GLIENTE" Source="TP_CARGA_GLIENTE.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="TP_CARGA_GLIENTE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TP_CARGA_GLIENTE" Source="TP_CARGA_GLIENTE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TP_CARGA_CLIENTE.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TP_CARGA_CLIENTE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TP_CARGA_GLIENTE" Source="TP_CARGA_GLIENTE.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

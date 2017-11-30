@@ -1,0 +1,5 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\ReporteOC_Recibidas\ReporteOC_Farmatodo_TP\bin\Debug\ReporteOC_Farmatodo_TP.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\ReporteOC_Recibidas\ReporteOC_Farmatodo_TP\bin\Debug\ReporteOC_Farmatodo_TP.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\ReporteOC_Recibidas\ReporteOC_Farmatodo_TP\obj\Debug\ReporteOC_Farmatodo_TP.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\ReporteOC_Recibidas\ReporteOC_Farmatodo_TP\obj\Debug\ReporteOC_Farmatodo_TP.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\ReporteOC_Recibidas\ReporteOC_Farmatodo_TP\bin\Debug\ReporteOC_Farmatodo_TP.exe.config

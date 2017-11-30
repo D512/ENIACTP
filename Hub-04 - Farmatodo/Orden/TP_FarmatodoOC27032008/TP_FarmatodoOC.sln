@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_FarmatodoOC", "TP_Farmatodo\TP_FarmatodoOC.csproj", "{18198516-EB5A-4367-944F-F64A0E935DD4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{18198516-EB5A-4367-944F-F64A0E935DD4}.Debug.ActiveCfg = Debug|.NET
+		{18198516-EB5A-4367-944F-F64A0E935DD4}.Debug.Build.0 = Debug|.NET
+		{18198516-EB5A-4367-944F-F64A0E935DD4}.Release.ActiveCfg = Release|.NET
+		{18198516-EB5A-4367-944F-F64A0E935DD4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

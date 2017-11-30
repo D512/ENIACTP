@@ -1,0 +1,5 @@
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\obj\Debug\TP_FacturaFarmatodo.exe
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\obj\Debug\TP_FacturaFarmatodo.pdb
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\bin\Debug\TP_FacturaFarmatodo.exe
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\bin\Debug\TP_FacturaFarmatodo.pdb
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\obj\Debug\ResolveAssemblyReference.cache

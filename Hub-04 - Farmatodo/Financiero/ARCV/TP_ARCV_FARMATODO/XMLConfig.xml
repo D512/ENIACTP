@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <!-- Credenciales Conexión BD -->
+   <ADD KEY="STRINGDB" VALUE="Server = 172.16.110.20\SQL2012; database = BDTradePlace; uid = Tradeplace; pwd = Tr.P20"></ADD>
+ 
+   <!-- Rutas Archivos -->
+   <ADD KEY="STRINGLOG" VALUE="\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\ARCV\LOG_ARCV_FARMATODO.txt"></ADD>
+   <ADD KEY="STRINGFILE" VALUE="\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\ARCV\arcv.txt"></ADD>
+   
+   <!-- Tablas BD -->
+   <ADD KEY="STRTABLENAME01" VALUE="farmatodo_encabezado_arcv"></ADD>   
+   <ADD KEY="STRTABLENAME02" VALUE="farmatodo_detalles_arcv"></ADD>
+   <ADD KEY="STRTABLENAME03" VALUE="farmatodo_arcv_tracking"></ADD>
+   
+   <!-- Campos Generales -->
+   <ADD KEY="STRHUB" VALUE="HUB-04"></ADD>
+   <ADD KEY="CARACTER" VALUE="|"></ADD>
+   
+   <!-- Campos Encabezado -->
+   
+	<ADD KEY="STRCAMPOENC01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPOENC02" VALUE ="status_doc"></ADD>
+	<ADD KEY="STRCAMPOENC03" VALUE ="fecha_status"></ADD>
+	<ADD KEY="STRCAMPOENC04" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPOENC10" VALUE ="fecha_doc"></ADD>
+	<ADD KEY="STRCAMPOENC05" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPOENC06" VALUE ="tipo_persona"></ADD>
+	<ADD KEY="STRCAMPOENC07" VALUE ="nom_agente_retencion"></ADD>
+	<ADD KEY="STRCAMPOENC08" VALUE ="rif_agente"></ADD>
+    <ADD KEY="STRCAMPOENC09" VALUE ="direccion_agente"></ADD>
+	<ADD KEY="STRCAMPOENC11" VALUE ="proveedor"></ADD>
+	<ADD KEY="STRCAMPOENC12" VALUE ="rif_proveedor"></ADD>
+	<ADD KEY="STRCAMPOENC13" VALUE ="direccion_prov"></ADD>
+
+   
+   <!-- Campos Detalle -->
+   
+	<ADD KEY="STRCAMPODET01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPODET02" VALUE ="status_item"></ADD>
+	<ADD KEY="STRCAMPODET03" VALUE ="fecha_status"></ADD>
+	<ADD KEY="STRCAMPODET04" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPODET05" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPODET06" VALUE ="fecha_doc"></ADD>
+	<ADD KEY="STRCAMPODET07" VALUE ="fecha_pago"></ADD>
+	<ADD KEY="STRCAMPODET08" VALUE ="descripcion"></ADD>
+	<ADD KEY="STRCAMPODET09" VALUE ="codigo_ret"></ADD>
+	<ADD KEY="STRCAMPODET10" VALUE ="total_pagado"></ADD>
+	<ADD KEY="STRCAMPODET11" VALUE ="cant_obj_ret"></ADD>
+	<ADD KEY="STRCAMPODET12" VALUE ="tasa"></ADD>
+	<ADD KEY="STRCAMPODET13" VALUE ="impuesto_ret"></ADD>
+	<ADD KEY="STRCAMPODET14" VALUE ="total_ret_acum"></ADD>
+	<ADD KEY="STRCAMPODET15" VALUE ="periodo"></ADD>
+	<ADD KEY="STRCAMPODET16" VALUE ="total_imp_ret"></ADD>
+	
+	<!-- Campos Tracking -->
+   
+	<ADD KEY="STRCAMPOTRA01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPOTRA02" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPOTRA03" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPOTRA04" VALUE ="usuario"></ADD>
+	<ADD KEY="STRCAMPOTRA05" VALUE ="fecha_registro"></ADD>
+
+
+
+</CONFIGURACION>

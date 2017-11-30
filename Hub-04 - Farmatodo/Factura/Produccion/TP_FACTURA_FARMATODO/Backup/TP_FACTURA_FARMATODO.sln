@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_FACTURA_FARMATODO", "TP_FACTURA_FARMATODO.csproj", "{716874A8-C6F0-4DDF-9BA8-D7A0CAF6DDA5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{716874A8-C6F0-4DDF-9BA8-D7A0CAF6DDA5}.Debug.ActiveCfg = Debug|.NET
+		{716874A8-C6F0-4DDF-9BA8-D7A0CAF6DDA5}.Debug.Build.0 = Debug|.NET
+		{716874A8-C6F0-4DDF-9BA8-D7A0CAF6DDA5}.Release.ActiveCfg = Release|.NET
+		{716874A8-C6F0-4DDF-9BA8-D7A0CAF6DDA5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <ADD KEY="STRINGDB" VALUE="Server = desarrollodb; database = BDTradePlace; uid = Tradeplace; pwd = PlaceTrade"></ADD>
+   <ADD KEY="STRINGLOG" VALUE="C:\FARMATODOINV_LOG.txt"></ADD>
+   <ADD KEY="STRINGEMAIL" VALUE="C:\FARMATODOINV_EMAIL.txt"></ADD>
+   <ADD KEY="STRINGFILENAME" VALUE="C:\INVRPT.txt"></ADD>
+</CONFIGURACION>

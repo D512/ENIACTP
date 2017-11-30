@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[TP_Locatel.csproj]
+SCC_Aux_Path = "\\192.168.101.51\vss\"
+SCC_Project_Name = "$/TP_Locatel.root/TP_Locatel/TP_Locatel", CNUCAAAA
+
+[TP_Cobeca.sln]
+SCC_Aux_Path = "\\192.168.101.51\vss\"
+SCC_Project_Name = "$/TP_Locatel.root", YLUCAAAA
+
+[TP_Cobeca.csproj]
+SCC_Aux_Path = "\\192.168.101.51\vss\"
+SCC_Project_Name = "$/TP_Locatel.root", YLUCAAAA

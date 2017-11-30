@@ -1,0 +1,2 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\ARCV\TP_ARCV_FARMATODO\bin\Release\TP_ARCV_FARMATODO.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\ARCV\TP_ARCV_FARMATODO\obj\Release\TP_ARCV_FARMATODO.exe

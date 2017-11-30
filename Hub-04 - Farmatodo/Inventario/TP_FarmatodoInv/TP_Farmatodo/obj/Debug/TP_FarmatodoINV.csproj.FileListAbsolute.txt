@@ -1,0 +1,5 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Inventario\TP_FarmatodoInv\TP_Farmatodo\bin\Debug\TP_FarmatodoInv.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Inventario\TP_FarmatodoInv\TP_Farmatodo\bin\Debug\TP_FarmatodoInv.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Inventario\TP_FarmatodoInv\TP_Farmatodo\obj\Debug\TP_FarmatodoINV.csprojResolveAssemblyReference.cache
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Inventario\TP_FarmatodoInv\TP_Farmatodo\obj\Debug\TP_FarmatodoInv.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Inventario\TP_FarmatodoInv\TP_Farmatodo\obj\Debug\TP_FarmatodoInv.pdb

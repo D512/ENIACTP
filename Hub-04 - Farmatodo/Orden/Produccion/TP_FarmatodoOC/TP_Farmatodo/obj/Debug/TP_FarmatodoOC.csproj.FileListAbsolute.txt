@@ -1,0 +1,4 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\NuevosProcesos\TP_FarmatodoOC\TP_Farmatodo\obj\Debug\TP_FarmatodoOC.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\NuevosProcesos\TP_FarmatodoOC\TP_Farmatodo\obj\Debug\TP_FarmatodoOC.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Orden\Produccion\TP_FarmatodoOC\TP_Farmatodo\obj\Debug\TP_FarmatodoOC.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Orden\Produccion\TP_FarmatodoOC\TP_Farmatodo\obj\Debug\TP_FarmatodoOC.pdb

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <ADD KEY="STRINGDB" VALUE="Server = desarrollo-db; database = BDTradePlace; uid = Tradeplace; pwd = PlaceTrade"></ADD>
+   <ADD KEY="STRINGLOG" VALUE="C:\FACTURA_LOG.txt"></ADD>
+   <ADD KEY="STRINGLOGERROR" VALUE="C:\FACTURA_LOGERROR.txt"></ADD>
+   <ADD KEY="STRINGEMAIL" VALUE="C:\FACTURA_EMAIL.txt"></ADD>
+   <ADD KEY="STRINGFILEIN" VALUE="C:\FactAutomatica.txt"></ADD>
+</CONFIGURACION>

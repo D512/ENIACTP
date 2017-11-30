@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <ADD KEY="STRINGDB" VALUE="Server = desarrollo-db; database = BDTradePlace; uid = Tradeplace; pwd = PlaceTrade"></ADD>
+   <ADD KEY="STRINGLOG" VALUE="C:\Log\FACTURA_FARMATODO_LOG.txt"></ADD>
+   <ADD KEY="STRINGFILENAME" VALUE="C:\Factura\Factura.txt"></ADD>
+   <ADD KEY="STRTABLENAME01" VALUE="farmatodo_encabezado_totales_factura"></ADD>   
+   <ADD KEY="STRTABLENAME02" VALUE="farmatodo_detalles_factura"></ADD>
+   <ADD KEY="STRTABLENAME03" VALUE="farmatodo_factura_tracking"></ADD>
+   <ADD KEY="STRHUB" VALUE="HUB-04"></ADD>
+   <ADD KEY="STRDIR" VALUE="C:\factura\"></ADD>
+   <ADD KEY="STRCLIENTE" VALUE="Farmatodo, C.A."></ADD>
+   <ADD KEY="STREMAILCC" VALUE="marianelaalvarado.morales@gmail.com"></ADD>
+   <ADD KEY="STRSERVER" VALUE="correo.eniac.com"></ADD>
+</CONFIGURACION>

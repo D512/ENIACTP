@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <!-- Credenciales Conexión BD -->
+<ADD KEY="STRINGDB" VALUE="Server = 172.16.110.20\SQL2012; database = BDTradePlace; uid = Tradeplace; pwd = Tr.P20"></ADD>
+
+   <!-- Rutas Archivos -->
+   <ADD KEY="STRINGLOG" VALUE="E:\In\TP\Hub-04\DB\CONFIRMACION_PAGOS\LOG_CONFIMRACION_PAGOS_FARMATODO.txt"></ADD>
+   <ADD KEY="STRINGFILE" VALUE="E:\In\TP\Hub-04\DB\CONFIRMACION_PAGOS\confpagos.txt"></ADD>
+   
+   <!-- Tablas BD -->
+   <ADD KEY="STRTABLENAME01" VALUE="farmatodo_encabezado_conf_pagos"></ADD>   
+   <ADD KEY="STRTABLENAME02" VALUE="farmatodo_detalles_conf_pagos"></ADD>
+   <ADD KEY="STRTABLENAME03" VALUE="farmatodo_conf_pagos_tracking"></ADD>
+   
+   <!-- Campos Generales -->
+   
+   <ADD KEY="STRHUB" VALUE="HUB-04"></ADD>
+   <ADD KEY="CARACTER" VALUE="|"></ADD>
+   
+   <!-- Campos Encabezado -->
+   
+	<ADD KEY="STRCAMPOENC01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPOENC02" VALUE ="status_doc"></ADD>
+	<ADD KEY="STRCAMPOENC03" VALUE ="fecha_status"></ADD>
+	<ADD KEY="STRCAMPOENC04" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPOENC05" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPOENC06" VALUE ="proveedor"></ADD>
+	<ADD KEY="STRCAMPOENC07" VALUE ="rif_proveedor"></ADD>
+	<ADD KEY="STRCAMPOENC08" VALUE ="fecha_doc"></ADD>
+	<ADD KEY="STRCAMPOENC09" VALUE ="monto_pago"></ADD>
+	<ADD KEY="STRCAMPOENC10" VALUE ="nombre_comprador"></ADD>
+    <ADD KEY="STRCAMPOENC11" VALUE ="rif_comprador"></ADD>
+   
+   <!-- Campos Detalle -->
+   
+	<ADD KEY="STRCAMPODET01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPODET02" VALUE ="status_item"></ADD>
+	<ADD KEY="STRCAMPODET03" VALUE ="fecha_status"></ADD>
+	<ADD KEY="STRCAMPODET04" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPODET05" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPODET06" VALUE ="numero_factura"></ADD>
+	<ADD KEY="STRCAMPODET07" VALUE ="fecha_factura"></ADD>
+	<ADD KEY="STRCAMPODET08" VALUE ="monto_factura"></ADD>
+	<ADD KEY="STRCAMPODET09" VALUE ="descripcion"></ADD>
+	<ADD KEY="STRCAMPODET10" VALUE ="cod_localizacion"></ADD>
+	<ADD KEY="STRCAMPODET11" VALUE ="nombre_tienda"></ADD>
+	<ADD KEY="STRCAMPODET12" VALUE ="banco_emisor"></ADD>
+	<ADD KEY="STRCAMPODET13" VALUE ="cod_emisor"></ADD>
+	<ADD KEY="STRCAMPODET14" VALUE ="banco_receptor"></ADD>
+	<ADD KEY="STRCAMPODET15" VALUE ="cod_receptor"></ADD>
+	<ADD KEY="STRCAMPODET16" VALUE ="cuenta_receptora"></ADD>
+	<ADD KEY="STRCAMPODET17" VALUE ="tipo_pago"></ADD>
+	<ADD KEY="STRCAMPODET18" VALUE ="monto_gravable"></ADD>
+	<ADD KEY="STRCAMPODET19" VALUE ="monto_excento"></ADD>
+	<ADD KEY="STRCAMPODET20" VALUE ="monto_impuesto"></ADD>
+	<ADD KEY="STRCAMPODET21" VALUE ="iva_retenido"></ADD>
+	<ADD KEY="STRCAMPODET22" VALUE ="islr_retenido"></ADD>
+	<ADD KEY="STRCAMPODET23" VALUE ="descuento"></ADD>
+	<ADD KEY="STRCAMPODET24" VALUE ="monto_pagado_factura"></ADD>
+	<ADD KEY="STRCAMPODET25" VALUE ="importe_pagado_anteriores"></ADD>
+	
+	<!-- Campos Tracking -->
+   
+	<ADD KEY="STRCAMPOTRA01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPOTRA02" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPOTRA03" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPOTRA04" VALUE ="usuario"></ADD>
+	<ADD KEY="STRCAMPOTRA05" VALUE ="fecha_registro"></ADD>
+
+
+
+</CONFIGURACION>

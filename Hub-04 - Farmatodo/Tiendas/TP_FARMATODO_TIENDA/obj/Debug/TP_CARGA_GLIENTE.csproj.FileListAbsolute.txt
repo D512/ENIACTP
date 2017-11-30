@@ -1,0 +1,2 @@
+C:\Rosmy\TP_EXCELSIOR_ART\obj\Debug\TP_CargaCliente.exe
+C:\Rosmy\TP_EXCELSIOR_ART\obj\Debug\TP_CargaCliente.pdb

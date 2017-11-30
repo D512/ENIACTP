@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <ADD KEY="STRINGDB" VALUE="Server = desarrollo-db; database = BDTradePlace; uid = Tradeplace; pwd = PlaceTrade"></ADD>
+   <ADD KEY="STRINGLOG" VALUE="C:\Archivos_Pruebas\ReporteOC_Farmatodo.txt"></ADD>
+   <ADD KEY="STRINGFILENAME" VALUE="C:\Archivos_Pruebas\ReporteOCFarma.txt"></ADD>
+   <ADD KEY="STRTABLENAME01" VALUE="farmatodo_encabezado_totales_oc"></ADD>   
+   <ADD KEY="STRTABLENAME02" VALUE="farmatodo_detalles_oc"></ADD>
+   <ADD KEY="STRTABLENAME03" VALUE="farmatodo_oc_tracking"></ADD>
+   <ADD KEY="STRHUB" VALUE="HUB-04"></ADD>
+   <ADD KEY="STRDIR" VALUE="C:\Archivos_Pruebas\"></ADD>
+   <ADD KEY="STRCLIENTE" VALUE="FARMATODO"></ADD>
+   <ADD KEY="STREMAILCC" VALUE="alejandraparis@gmail.com"></ADD>
+   <ADD KEY="STRSERVER" VALUE="correo.eniac.com"></ADD> 
+</CONFIGURACION>

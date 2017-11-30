@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------- 
+---           PROCESO DE CARGA CONFIRMACIONES DE PAGOS FARMATODO VE               --- 
+-------------------------------------------------------------------------------- 
+  NOMBRE ARCHIVO:    \\DESARROLLO-WS\Respaldo_ProcesosTP\In\OrdendeProcesos\Comunidades\Hub-04-Farmatodo\Financiero\CONFIRMACION_PAGOS\confpagos.txt
+  FECHA DE LA CARGA: 27/11/2017 10:07:10 a.m.
+ 
+27/11/2017 10:07:10 a.m.,  LEYENDO ARCHIVO XML DE CONFIGURACION
+27/11/2017 10:07:10 a.m.,  PARAMETROS DEL ARCHIVO XML CARGADOS SATISFACTORIAMENTE
+27/11/2017 10:07:10 a.m.,  PARAMETROS DE ENTRADA DEL SISTEMA CARGADOS SATISFACTORIAMENTE.  NOMBRE ARCHIVO: \\DESARROLLO-WS\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\CONFIRMACION_PAGOS\confpagos.txt
+27/11/2017 10:07:10 a.m.,  CONFIRMACION DE PAGO YA EXISTENTE. CONFIRMACION DE PAGO NUMERO: 4224 PROVEEDOR: 5654059 SE ACTUALIZARA.
+27/11/2017 10:07:10 a.m.,  RETENCION ELIMINADA. DOCUMENTO: 4224 PROVEEDOR: 5654059 LINEA: 1
+27/11/2017 10:07:10 a.m.,  CONFIMACIÓN DE PAGO INSERTADA. DOCUMENTO: 4224 PROVEEDOR: A.B.H. FUMIGACIONES, C.A. CODIGO: 5654059 LINEA: 1
+27/11/2017 10:07:10 a.m.,  --> ERROR INSERTANDO EN BD: Arithmetic overflow error converting int to data type numeric.
+The statement has been terminated.
+27/11/2017 10:07:10 a.m.,  QUERY: INSERT INTO farmatodo_detalles_conf_pagos(hub_tp, status_item, fecha_status, numero_doc, cod_prov_hub_tp, numero_factura, fecha_factura, monto_factura, descripcion, cod_localizacion, nombre_tienda, banco_emisor, cod_emisor, banco_receptor, cod_receptor, cuenta_receptora, tipo_pago, monto_gravable, monto_excento, monto_impuesto, iva_retenido, islr_retenido, descuento, monto_pagado_factura, importe_pagado_anteriores) VALUES  ('HUB-04','100',GETDATE(),'4224','5654059','20294-00-008973',convert(datetime,'20170802',112),896000,'FUMIGACIONES CON LIQUIDO Y COLOCACION DE GEL EN MOBILIARIO','','','BANCO NACIONAL DE CREDITO','10010','BANCO PROVINCIAL','6059','01080948720100002188','ElectrOnico',80000000,9600000,0,0,0,7200000,89600000,0);. LINEA: 2
+27/11/2017 10:07:10 a.m.,   --> ERROR - EJECUTANDO INSERCION EN BD. LINEA: 2
+27/11/2017 10:07:11 a.m.,  TOTAL REGISTROS INSERTADOS: 1
+27/11/2017 10:07:11 a.m.,  FINALIZO SATISFACTORIAMENTE EL PROCESO DE IMPORT DEL ARCHIVO: \\DESARROLLO-WS\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\CONFIRMACION_PAGOS\confpagos.txt

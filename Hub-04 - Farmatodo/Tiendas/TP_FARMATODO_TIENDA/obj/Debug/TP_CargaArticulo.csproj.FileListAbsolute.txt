@@ -1,0 +1,7 @@
+C:\Rosmy\TP_EXCELSIOR_ART\bin\Debug\TP_CargaArticulo.exe
+C:\Rosmy\TP_EXCELSIOR_ART\bin\Debug\TP_CargaArticulo.pdb
+C:\Rosmy\TP_EXCELSIOR_ART\obj\Debug\ResolveAssemblyReference.cache
+C:\Rosmy\TP_EXCELSIOR_ART\obj\Debug\TP_CargaArticulo.exe
+C:\Rosmy\TP_EXCELSIOR_ART\obj\Debug\TP_CargaArticulo.pdb
+C:\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaArticulo.exe
+C:\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaArticulo.pdb

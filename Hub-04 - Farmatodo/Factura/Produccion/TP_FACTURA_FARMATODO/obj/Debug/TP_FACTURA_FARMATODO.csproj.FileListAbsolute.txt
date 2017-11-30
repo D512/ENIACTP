@@ -1,0 +1,9 @@
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\obj\Debug\TP_FacturaFarmatodo.exe
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\obj\Debug\TP_FacturaFarmatodo.pdb
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\bin\Debug\TP_FacturaFarmatodo.exe
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\bin\Debug\TP_FacturaFarmatodo.pdb
+C:\Respaldo_Marianela\Marianela\Proyectos\TP_FACTURA_FARMATODO\obj\Debug\ResolveAssemblyReference.cache
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Factura\Produccion\TP_FACTURA_FARMATODO\obj\Debug\TP_FacturaFarmatodo.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Factura\Produccion\TP_FACTURA_FARMATODO\obj\Debug\TP_FacturaFarmatodo.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Factura\Produccion\TP_FACTURA_FARMATODO\bin\Debug\TP_FacturaFarmatodo.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Factura\Produccion\TP_FACTURA_FARMATODO\bin\Debug\TP_FacturaFarmatodo.pdb

@@ -1,0 +1,2 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\CONFIRMACION_PAGOS\TP_CONFIRMACION_PAGOS_FARMATODO\bin\Release\TP_CONFIRMACION_PAGOS.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\CONFIRMACION_PAGOS\TP_CONFIRMACION_PAGOS_FARMATODO\obj\Release\TP_CONFIRMACION_PAGOS.exe

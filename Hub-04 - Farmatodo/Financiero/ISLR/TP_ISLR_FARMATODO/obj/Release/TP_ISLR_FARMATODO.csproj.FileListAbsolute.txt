@@ -1,0 +1,2 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\ISLR\TP_ISLR_FARMATODO\bin\Release\TP_ISLR_FARMATODO.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\ISLR\TP_ISLR_FARMATODO\obj\Release\TP_ISLR_FARMATODO.exe

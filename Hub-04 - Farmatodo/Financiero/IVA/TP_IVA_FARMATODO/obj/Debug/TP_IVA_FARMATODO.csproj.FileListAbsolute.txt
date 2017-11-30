@@ -1,0 +1,4 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\IVA\TP_IVA_FARMATODO\bin\Debug\TP_IVA_FARMATODO.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\IVA\TP_IVA_FARMATODO\bin\Debug\TP_IVA_FARMATODO.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\IVA\TP_IVA_FARMATODO\obj\Debug\TP_IVA_FARMATODO.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Financiero\IVA\TP_IVA_FARMATODO\obj\Debug\TP_IVA_FARMATODO.pdb

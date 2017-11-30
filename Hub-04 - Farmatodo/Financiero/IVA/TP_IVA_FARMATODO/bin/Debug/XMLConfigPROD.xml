@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CONFIGURACION>
+   <!-- Credenciales Conexión BD -->
+	<ADD KEY="STRINGDB" VALUE="Server = 172.16.110.20\SQL2012; database = BDTradePlace; uid = Tradeplace; pwd = Tr.P20"></ADD>
+ 
+   <!-- Rutas Archivos -->
+   <ADD KEY="STRINGLOG" VALUE="E:\In\TP\hub-04\DB\Financiero\IVA\LOG_IVA_FARMATODO.txt"></ADD>
+   <ADD KEY="STRINGFILE" VALUE="E:\In\TP\hub-04\DB\Financiero\IVA\iva.txt"></ADD>
+   
+   <!-- Tablas BD -->
+   <ADD KEY="STRTABLENAME01" VALUE="farmatodo_encabezado_iva"></ADD>   
+   <ADD KEY="STRTABLENAME02" VALUE="farmatodo_detalles_iva"></ADD>
+   <ADD KEY="STRTABLENAME03" VALUE="farmatodo_iva_tracking"></ADD>
+   
+   <!-- Campos Generales -->
+   <ADD KEY="STRHUB" VALUE="HUB-04"></ADD>
+   
+   	<ADD KEY="CARACTER" VALUE="|"></ADD>
+   
+   <!-- Campos Encabezado -->
+   
+	<ADD KEY="STRCAMPOENC01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPOENC02" VALUE ="status_doc"></ADD>
+	<ADD KEY="STRCAMPOENC03" VALUE ="fecha_status"></ADD>
+	<ADD KEY="STRCAMPOENC04" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPOENC05" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPOENC06" VALUE ="fecha_emision"></ADD>
+	<ADD KEY="STRCAMPOENC07" VALUE ="fecha_entrega"></ADD>
+	<ADD KEY="STRCAMPOENC08" VALUE ="nom_agente_retencion"></ADD>
+	<ADD KEY="STRCAMPOENC09" VALUE ="rif_agente"></ADD>
+	<ADD KEY="STRCAMPOENC10" VALUE ="periodo_fiscal"></ADD>
+    <ADD KEY="STRCAMPOENC11" VALUE ="direccion"></ADD>
+	<ADD KEY="STRCAMPOENC12" VALUE ="proveedor"></ADD>
+	<ADD KEY="STRCAMPOENC13" VALUE ="rif_proveedor"></ADD>
+	<ADD KEY="STRCAMPOENC14" VALUE ="total_factura"></ADD>
+	<ADD KEY="STRCAMPOENC15" VALUE ="total_sin_iva"></ADD>
+	<ADD KEY="STRCAMPOENC16" VALUE ="total_base_imponible"></ADD>
+	<ADD KEY="STRCAMPOENC17" VALUE ="total_iva"></ADD>
+	<ADD KEY="STRCAMPOENC18" VALUE ="total_iva_retenido"></ADD>
+    <ADD KEY="STRCAMPOENC19" VALUE ="periodo_impositivo"></ADD>
+	<ADD KEY="STRCAMPOENC20" VALUE ="total_con_iva"></ADD>
+   
+   <!-- Campos Detalle -->
+   
+	<ADD KEY="STRCAMPODET01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPODET02" VALUE ="status_item"></ADD>
+	<ADD KEY="STRCAMPODET03" VALUE ="fecha_status"></ADD>
+	<ADD KEY="STRCAMPODET04" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPODET05" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPODET06" VALUE ="nro_operacion"></ADD>
+	<ADD KEY="STRCAMPODET07" VALUE ="fecha_factura"></ADD>
+	<ADD KEY="STRCAMPODET08" VALUE ="numero_factura"></ADD>
+	<ADD KEY="STRCAMPODET09" VALUE ="numero_control"></ADD>
+	<ADD KEY="STRCAMPODET10" VALUE ="numero_debito"></ADD>
+	<ADD KEY="STRCAMPODET11" VALUE ="numero_control_debito"></ADD>
+	<ADD KEY="STRCAMPODET12" VALUE ="numero_credito"></ADD>
+	<ADD KEY="STRCAMPODET13" VALUE ="numero_control_credito"></ADD>
+	<ADD KEY="STRCAMPODET14" VALUE ="tipo_transaccion"></ADD>
+	<ADD KEY="STRCAMPODET15" VALUE ="factura_afectada"></ADD>
+	<ADD KEY="STRCAMPODET16" VALUE ="total_con_iva"></ADD>
+	<ADD KEY="STRCAMPODET17" VALUE ="compras_sin_iva"></ADD>
+	<ADD KEY="STRCAMPODET18" VALUE ="base_imponible"></ADD>
+	<ADD KEY="STRCAMPODET19" VALUE ="alicuota"></ADD>
+	<ADD KEY="STRCAMPODET20" VALUE ="impuesto_iva"></ADD>
+	<ADD KEY="STRCAMPODET21" VALUE ="iva_retenido"></ADD>
+	<ADD KEY="STRCAMPODET22" VALUE ="tasa"></ADD>
+	
+	<!-- Campos Tracking -->
+   
+	<ADD KEY="STRCAMPOTRA01" VALUE ="hub_tp"></ADD>
+	<ADD KEY="STRCAMPOTRA02" VALUE ="cod_prov_hub_tp"></ADD>
+	<ADD KEY="STRCAMPOTRA03" VALUE ="numero_doc"></ADD>
+	<ADD KEY="STRCAMPOTRA04" VALUE ="usuario"></ADD>
+	<ADD KEY="STRCAMPOTRA05" VALUE ="fecha_registro"></ADD>
+
+
+
+</CONFIGURACION>

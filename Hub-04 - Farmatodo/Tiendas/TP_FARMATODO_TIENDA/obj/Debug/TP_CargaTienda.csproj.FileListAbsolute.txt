@@ -1,0 +1,11 @@
+C:\Rosmy\TP_FARMATODO_TIENDA\bin\Debug\TP_CargaTienda.exe
+C:\Rosmy\TP_FARMATODO_TIENDA\bin\Debug\TP_CargaTienda.pdb
+C:\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaTienda.exe
+C:\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaTienda.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\Respaldo_ROSMY\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaTienda.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\Respaldo_ROSMY\Rosmy\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaTienda.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Tiendas\TP_FARMATODO_TIENDA\bin\Debug\TP_CargaTienda.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Tiendas\TP_FARMATODO_TIENDA\bin\Debug\TP_CargaTienda.pdb
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Tiendas\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaTienda.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Tiendas\TP_FARMATODO_TIENDA\obj\Debug\TP_CargaTienda.pdb

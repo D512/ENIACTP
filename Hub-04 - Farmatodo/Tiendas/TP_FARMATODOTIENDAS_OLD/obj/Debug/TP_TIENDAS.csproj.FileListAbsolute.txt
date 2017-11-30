@@ -1,0 +1,2 @@
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Tiendas\TP_FARMATODOTIENDAS\obj\Debug\TP_FARMATODOTIENDAS.exe
+\\desarrollo-ws\Respaldo_ProcesosTP\In\Orden de Procesos\Comunidades\Hub-04 - Farmatodo\Tiendas\TP_FARMATODOTIENDAS\obj\Debug\TP_FARMATODOTIENDAS.pdb
